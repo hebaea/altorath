@@ -2242,8 +2242,8 @@ body {
 }
 
 .fixed .logo img {
-    width: 85%;
-    height: 70px !important;
+    width: 150;
+    height: 150 !important;
 }
 
 .header-2 .fixed {
