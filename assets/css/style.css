@@ -172,7 +172,7 @@ h6 {
     margin: 0;
     padding: 0;
     font-weight: normal;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Tajawal', sans-serif;
     color: #333;
     direction: rtl;
 }
@@ -215,7 +215,7 @@ body {
     line-height: 1.57;
     color: #666;
     background: #fff;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
 }
 
 .display-flex {
@@ -247,7 +247,7 @@ body {
 .footer-title h3 {
     font-size: 20px;
     text-transform: uppercase;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: 700;
     padding: 15px 0px 40px 0px;
 }
@@ -257,7 +257,7 @@ body {
     text-transform: uppercase;
     color: #fff;
     padding: 13px 36px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 15px;
     font-weight: 600;
 }
@@ -428,7 +428,7 @@ body {
     display: inline-block;
     color: #fff;
     padding: 14px 36px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 16px;
     font-weight: bold;
     background: #ea1f27;
@@ -447,7 +447,7 @@ body {
 }
 
 .title-bold {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 18px;
     text-transform: uppercase;
     font-weight: bold;
@@ -463,14 +463,14 @@ body {
 }
 
 .title-bold-16 {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 16px;
     font-weight: bold;
     color: #333;
 }
 
 .title-bold-24 {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 24px;
     text-transform: uppercase;
     font-weight: bold;
@@ -478,7 +478,7 @@ body {
 }
 
 .title-bold-20 {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 20px;
     text-transform: uppercase;
     font-weight: 600;
@@ -489,26 +489,26 @@ body {
 }
 
 .title-regular {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 18px;
     font-weight: bold;
     color: #333;
 }
 
 .title-regular-white {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 18px;
     text-transform: uppercase;
 }
 
 .title-regular-14 {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 14px;
     font-weight: bold;
 }
 
 .title-tab {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 16px;
     text-transform: uppercase;
 }
@@ -519,7 +519,7 @@ body {
 }
 
 .section-title h2 {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 26px;
     font-weight: bold;
     text-transform: uppercase;
@@ -548,7 +548,7 @@ body {
 }
 
 .section-title-desc h2 {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 26px;
     font-weight: bold;
     text-transform: uppercase;
@@ -581,7 +581,7 @@ body {
 }
 
 .section-title-2 h2 {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 26px;
     font-weight: bold;
     text-transform: uppercase;
@@ -594,7 +594,7 @@ body {
 }
 
 .section-title-left h2 {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 26px;
     font-weight: bold;
     text-transform: uppercase;
@@ -623,7 +623,7 @@ body {
 
 .page-title h1 {
     font-size: 40px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: bold;
     color: #fff;
     text-transform: uppercase;
@@ -725,13 +725,13 @@ body {
 
 .read-more-14 {
     font-size: 14px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: bold;
 }
 
 .read-more-14-regular {
     font-size: 14px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: bold;
     padding: 10px 20px;
     display: inline-block;
@@ -783,7 +783,7 @@ body {
 }
 
 .read-more-regular {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: 600;
     padding: 10px 30px;
     text-transform: uppercase;
@@ -840,7 +840,7 @@ body {
 }
 
 .buy-now {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: 600;
     padding: 12px 40px;
     text-transform: uppercase;
@@ -1206,10 +1206,10 @@ body {
 /* roboto-condensed-regular - latin */
 
 @font-face {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-style: normal;
     font-weight: 400;
-    src: url("../fonts/roboto-condensed/roboto-condensed-v16-latin-regular.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Roboto Condensed"), local("RobotoCondensed-Regular"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-regular.woff2") format("woff2"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-regular.woff") format("woff"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-regular.ttf") format("truetype"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-regular.svg#RobotoCondensed") format("svg");
     /* Legacy iOS */
@@ -1219,10 +1219,10 @@ body {
 /* roboto-condensed-italic - latin */
 
 @font-face {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-style: italic;
     font-weight: 400;
-    src: url("../fonts/roboto-condensed/roboto-condensed-v16-latin-italic.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Roboto Condensed Italic"), local("RobotoCondensed-Italic"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-italic.woff2") format("woff2"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-italic.woff") format("woff"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-italic.ttf") format("truetype"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-italic.svg#RobotoCondensed") format("svg");
     /* Legacy iOS */
@@ -1232,10 +1232,10 @@ body {
 /* roboto-condensed-700 - latin */
 
 @font-face {
-    font-family: 'Roboto Condensed';
+    font-family: 'Tajawal', sans-serif;
     font-style: normal;
     font-weight: 700;
-    src: url("../fonts/roboto-condensed/roboto-condensed-v16-latin-700.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Roboto Condensed Bold"), local("RobotoCondensed-Bold"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-700.eot?#iefix") format("embedded-opentype"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-700.woff2") format("woff2"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-700.woff") format("woff"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-700.ttf") format("truetype"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-700.svg#RobotoCondensed") format("svg");
     /* Legacy iOS */
@@ -1245,10 +1245,10 @@ body {
 /* roboto-condensed-700italic - latin */
 
 @font-face {
-    font-family: 'Roboto Condensed';
+    font-family: 'Tajawal', sans-serif;
     font-style: italic;
     font-weight: 700;
-    src: url("../fonts/roboto-condensed/roboto-condensed-v16-latin-700italic.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Roboto Condensed Bold Italic"), local("RobotoCondensed-BoldItalic"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-700italic.eot?#iefix") format("embedded-opentype"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-700italic.woff2") format("woff2"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-700italic.woff") format("woff"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-700italic.ttf") format("truetype"), url("../fonts/roboto-condensed/roboto-condensed-v16-latin-700italic.svg#RobotoCondensed") format("svg");
     /* Legacy iOS */
@@ -1258,10 +1258,10 @@ body {
 /* open-sans-regular - latin */
 
 @font-face {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-style: normal;
     font-weight: 400;
-    src: url("../fonts/opensans/open-sans-v15-latin-regular.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Open Sans Regular"), local("OpenSans-Regular"), url("../fonts/opensans/open-sans-v15-latin-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/opensans/open-sans-v15-latin-regular.woff2") format("woff2"), url("../fonts/opensans/open-sans-v15-latin-regular.woff") format("woff"), url("../fonts/opensans/open-sans-v15-latin-regular.ttf") format("truetype"), url("../fonts/opensans/open-sans-v15-latin-regular.svg#OpenSans") format("svg");
     /* Legacy iOS */
@@ -1271,10 +1271,10 @@ body {
 /* open-sans-italic - latin */
 
 @font-face {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-style: italic;
     font-weight: 400;
-    src: url("../fonts/opensans/open-sans-v15-latin-italic.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Open Sans Italic"), local("OpenSans-Italic"), url("../fonts/opensans/open-sans-v15-latin-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/opensans/open-sans-v15-latin-italic.woff2") format("woff2"), url("../fonts/opensans/open-sans-v15-latin-italic.woff") format("woff"), url("../fonts/opensans/open-sans-v15-latin-italic.ttf") format("truetype"), url("../fonts/opensans/open-sans-v15-latin-italic.svg#OpenSans") format("svg");
     /* Legacy iOS */
@@ -1284,10 +1284,10 @@ body {
 /* open-sans-600 - latin */
 
 @font-face {
-    font-family: 'Open Sans';
+    font-family: 'Tajawal', sans-serif;
     font-style: normal;
     font-weight: 600;
-    src: url("../fonts/opensans/open-sans-v15-latin-600.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Open Sans SemiBold"), local("OpenSans-SemiBold"), url("../fonts/opensans/open-sans-v15-latin-600.eot?#iefix") format("embedded-opentype"), url("../fonts/opensans/open-sans-v15-latin-600.woff2") format("woff2"), url("../fonts/opensans/open-sans-v15-latin-600.woff") format("woff"), url("../fonts/opensans/open-sans-v15-latin-600.ttf") format("truetype"), url("../fonts/opensans/open-sans-v15-latin-600.svg#OpenSans") format("svg");
     /* Legacy iOS */
@@ -1297,10 +1297,10 @@ body {
 /* open-sans-600italic - latin */
 
 @font-face {
-    font-family: 'Open Sans';
+    font-family: 'Tajawal', sans-serif;
     font-style: italic;
     font-weight: 600;
-    src: url("../fonts/opensans/open-sans-v15-latin-600italic.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Open Sans SemiBold Italic"), local("OpenSans-SemiBoldItalic"), url("../fonts/opensans/open-sans-v15-latin-600italic.eot?#iefix") format("embedded-opentype"), url("../fonts/opensans/open-sans-v15-latin-600italic.woff2") format("woff2"), url("../fonts/opensans/open-sans-v15-latin-600italic.woff") format("woff"), url("../fonts/opensans/open-sans-v15-latin-600italic.ttf") format("truetype"), url("../fonts/opensans/open-sans-v15-latin-600italic.svg#OpenSans") format("svg");
     /* Legacy iOS */
@@ -1310,10 +1310,10 @@ body {
 /* open-sans-700 - latin */
 
 @font-face {
-    font-family: 'Open Sans';
+    font-family: 'Tajawal', sans-serif;
     font-style: normal;
     font-weight: 700;
-    src: url("../fonts/opensans/open-sans-v15-latin-700.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Open Sans Bold"), local("OpenSans-Bold"), url("../fonts/opensans/open-sans-v15-latin-700.eot?#iefix") format("embedded-opentype"), url("../fonts/opensans/open-sans-v15-latin-700.woff2") format("woff2"), url("../fonts/opensans/open-sans-v15-latin-700.woff") format("woff"), url("../fonts/opensans/open-sans-v15-latin-700.ttf") format("truetype"), url("../fonts/opensans/open-sans-v15-latin-700.svg#OpenSans") format("svg");
     /* Legacy iOS */
@@ -1323,10 +1323,10 @@ body {
 /* open-sans-700italic - latin */
 
 @font-face {
-    font-family: 'Open Sans';
+    font-family: 'Tajawal', sans-serif;
     font-style: italic;
     font-weight: 700;
-    src: url("../fonts/opensans/open-sans-v15-latin-700italic.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Open Sans Bold Italic"), local("OpenSans-BoldItalic"), url("../fonts/opensans/open-sans-v15-latin-700italic.eot?#iefix") format("embedded-opentype"), url("../fonts/opensans/open-sans-v15-latin-700italic.woff2") format("woff2"), url("../fonts/opensans/open-sans-v15-latin-700italic.woff") format("woff"), url("../fonts/opensans/open-sans-v15-latin-700italic.ttf") format("truetype"), url("../fonts/opensans/open-sans-v15-latin-700italic.svg#OpenSans") format("svg");
     /* Legacy iOS */
@@ -1336,10 +1336,10 @@ body {
 /* raleway-regular - latin */
 
 @font-face {
-    font-family: 'Raleway';
+    font-family: 'Tajawal', sans-serif;
     font-style: normal;
     font-weight: 400;
-    src: url("../fonts/raleway/raleway-v12-latin-regular.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Raleway"), local("Raleway-Regular"), url("../fonts/raleway/raleway-v12-latin-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway/raleway-v12-latin-regular.woff2") format("woff2"), url("../fonts/raleway/raleway-v12-latin-regular.woff") format("woff"), url("../fonts/raleway/raleway-v12-latin-regular.ttf") format("truetype"), url("../fonts/raleway/raleway-v12-latin-regular.svg#Raleway") format("svg");
     /* Legacy iOS */
@@ -1349,10 +1349,10 @@ body {
 /* raleway-italic - latin */
 
 @font-face {
-    font-family: 'Raleway';
+    font-family: 'Tajawal', sans-serif;
     font-style: italic;
     font-weight: 400;
-    src: url("../fonts/raleway/raleway-v12-latin-italic.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Raleway Italic"), local("Raleway-Italic"), url("../fonts/raleway/raleway-v12-latin-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway/raleway-v12-latin-italic.woff2") format("woff2"), url("../fonts/raleway/raleway-v12-latin-italic.woff") format("woff"), url("../fonts/raleway/raleway-v12-latin-italic.ttf") format("truetype"), url("../fonts/raleway/raleway-v12-latin-italic.svg#Raleway") format("svg");
     /* Legacy iOS */
@@ -1362,10 +1362,10 @@ body {
 /* raleway-500 - latin */
 
 @font-face {
-    font-family: 'Raleway';
+    font-family: 'Tajawal', sans-serif;
     font-style: normal;
     font-weight: 500;
-    src: url("../fonts/raleway/raleway-v12-latin-500.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Raleway Medium"), local("Raleway-Medium"), url("../fonts/raleway/raleway-v12-latin-500.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway/raleway-v12-latin-500.woff2") format("woff2"), url("../fonts/raleway/raleway-v12-latin-500.woff") format("woff"), url("../fonts/raleway/raleway-v12-latin-500.ttf") format("truetype"), url("../fonts/raleway/raleway-v12-latin-500.svg#Raleway") format("svg");
     /* Legacy iOS */
@@ -1375,10 +1375,10 @@ body {
 /* raleway-500italic - latin */
 
 @font-face {
-    font-family: 'Raleway';
+    font-family: 'Tajawal', sans-serif;
     font-style: italic;
     font-weight: 500;
-    src: url("../fonts/raleway/raleway-v12-latin-500italic.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Raleway Medium Italic"), local("Raleway-MediumItalic"), url("../fonts/raleway/raleway-v12-latin-500italic.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway/raleway-v12-latin-500italic.woff2") format("woff2"), url("../fonts/raleway/raleway-v12-latin-500italic.woff") format("woff"), url("../fonts/raleway/raleway-v12-latin-500italic.ttf") format("truetype"), url("../fonts/raleway/raleway-v12-latin-500italic.svg#Raleway") format("svg");
     /* Legacy iOS */
@@ -1388,10 +1388,10 @@ body {
 /* raleway-600 - latin */
 
 @font-face {
-    font-family: 'Raleway';
+    font-family: 'Tajawal', sans-serif;
     font-style: normal;
     font-weight: 600;
-    src: url("../fonts/raleway/raleway-v12-latin-600.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Raleway SemiBold"), local("Raleway-SemiBold"), url("../fonts/raleway/raleway-v12-latin-600.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway/raleway-v12-latin-600.woff2") format("woff2"), url("../fonts/raleway/raleway-v12-latin-600.woff") format("woff"), url("../fonts/raleway/raleway-v12-latin-600.ttf") format("truetype"), url("../fonts/raleway/raleway-v12-latin-600.svg#Raleway") format("svg");
     /* Legacy iOS */
@@ -1401,10 +1401,10 @@ body {
 /* raleway-600italic - latin */
 
 @font-face {
-    font-family: 'Raleway';
+    font-family: 'Tajawal', sans-serif;
     font-style: italic;
     font-weight: 600;
-    src: url("../fonts/raleway/raleway-v12-latin-600italic.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Raleway SemiBold Italic"), local("Raleway-SemiBoldItalic"), url("../fonts/raleway/raleway-v12-latin-600italic.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway/raleway-v12-latin-600italic.woff2") format("woff2"), url("../fonts/raleway/raleway-v12-latin-600italic.woff") format("woff"), url("../fonts/raleway/raleway-v12-latin-600italic.ttf") format("truetype"), url("../fonts/raleway/raleway-v12-latin-600italic.svg#Raleway") format("svg");
     /* Legacy iOS */
@@ -1414,10 +1414,10 @@ body {
 /* raleway-700 - latin */
 
 @font-face {
-    font-family: 'Raleway';
+    font-family: 'Tajawal', sans-serif;
     font-style: normal;
     font-weight: 700;
-    src: url("../fonts/raleway/raleway-v12-latin-700.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Raleway Bold"), local("Raleway-Bold"), url("../fonts/raleway/raleway-v12-latin-700.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway/raleway-v12-latin-700.woff2") format("woff2"), url("../fonts/raleway/raleway-v12-latin-700.woff") format("woff"), url("../fonts/raleway/raleway-v12-latin-700.ttf") format("truetype"), url("../fonts/raleway/raleway-v12-latin-700.svg#Raleway") format("svg");
     /* Legacy iOS */
@@ -1427,10 +1427,10 @@ body {
 /* raleway-700italic - latin */
 
 @font-face {
-    font-family: 'Raleway';
+    font-family: 'Tajawal', sans-serif;
     font-style: italic;
     font-weight: 700;
-    src: url("../fonts/raleway/raleway-v12-latin-700italic.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Raleway Bold Italic"), local("Raleway-BoldItalic"), url("../fonts/raleway/raleway-v12-latin-700italic.eot?#iefix") format("embedded-opentype"), url("../fonts/raleway/raleway-v12-latin-700italic.woff2") format("woff2"), url("../fonts/raleway/raleway-v12-latin-700italic.woff") format("woff"), url("../fonts/raleway/raleway-v12-latin-700italic.ttf") format("truetype"), url("../fonts/raleway/raleway-v12-latin-700italic.svg#Raleway") format("svg");
     /* Legacy iOS */
@@ -1440,10 +1440,10 @@ body {
 /* montserrat-regular - latin */
 
 @font-face {
-    font-family: 'Montserrat';
+    font-family: 'Tajawal', sans-serif;
     font-style: normal;
     font-weight: 400;
-    src: url("../fonts/montserrat/montserrat-v12-latin-regular.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Montserrat Regular"), local("Montserrat-Regular"), url("../fonts/montserrat/montserrat-v12-latin-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat-v12-latin-regular.woff2") format("woff2"), url("../fonts/montserrat/montserrat-v12-latin-regular.woff") format("woff"), url("../fonts/montserrat/montserrat-v12-latin-regular.ttf") format("truetype"), url("../fonts/montserrat/montserrat-v12-latin-regular.svg#Montserrat") format("svg");
     /* Legacy iOS */
@@ -1453,10 +1453,10 @@ body {
 /* montserrat-italic - latin */
 
 @font-face {
-    font-family: 'Montserrat';
+    font-family: 'Tajawal', sans-serif;
     font-style: italic;
     font-weight: 400;
-    src: url("../fonts/montserrat/montserrat-v12-latin-italic.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Montserrat Italic"), local("Montserrat-Italic"), url("../fonts/montserrat/montserrat-v12-latin-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat-v12-latin-italic.woff2") format("woff2"), url("../fonts/montserrat/montserrat-v12-latin-italic.woff") format("woff"), url("../fonts/montserrat/montserrat-v12-latin-italic.ttf") format("truetype"), url("../fonts/montserrat/montserrat-v12-latin-italic.svg#Montserrat") format("svg");
     /* Legacy iOS */
@@ -1466,10 +1466,10 @@ body {
 /* montserrat-700 - latin */
 
 @font-face {
-    font-family: 'Montserrat';
+    font-family: 'Tajawal', sans-serif;
     font-style: normal;
     font-weight: 700;
-    src: url("../fonts/montserrat/montserrat-v12-latin-700.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Montserrat Bold"), local("Montserrat-Bold"), url("../fonts/montserrat/montserrat-v12-latin-700.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat-v12-latin-700.woff2") format("woff2"), url("../fonts/montserrat/montserrat-v12-latin-700.woff") format("woff"), url("../fonts/montserrat/montserrat-v12-latin-700.ttf") format("truetype"), url("../fonts/montserrat/montserrat-v12-latin-700.svg#Montserrat") format("svg");
     /* Legacy iOS */
@@ -1479,10 +1479,10 @@ body {
 /* montserrat-700italic - latin */
 
 @font-face {
-    font-family: 'Montserrat';
+    font-family: 'Tajawal', sans-serif;
     font-style: italic;
     font-weight: 700;
-    src: url("../fonts/montserrat/montserrat-v12-latin-700italic.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Montserrat Bold Italic"), local("Montserrat-BoldItalic"), url("../fonts/montserrat/montserrat-v12-latin-700italic.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat-v12-latin-700italic.woff2") format("woff2"), url("../fonts/montserrat/montserrat-v12-latin-700italic.woff") format("woff"), url("../fonts/montserrat/montserrat-v12-latin-700italic.ttf") format("truetype"), url("../fonts/montserrat/montserrat-v12-latin-700italic.svg#Montserrat") format("svg");
     /* Legacy iOS */
@@ -1492,10 +1492,10 @@ body {
 /* montserrat-900 - latin */
 
 @font-face {
-    font-family: 'Montserrat';
+    font-family: 'Tajawal', sans-serif;
     font-style: normal;
     font-weight: 900;
-    src: url("../fonts/montserrat/montserrat-v12-latin-900.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Montserrat Black"), local("Montserrat-Black"), url("../fonts/montserrat/montserrat-v12-latin-900.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat-v12-latin-900.woff2") format("woff2"), url("../fonts/montserrat/montserrat-v12-latin-900.woff") format("woff"), url("../fonts/montserrat/montserrat-v12-latin-900.ttf") format("truetype"), url("../fonts/montserrat/montserrat-v12-latin-900.svg#Montserrat") format("svg");
     /* Legacy iOS */
@@ -1505,10 +1505,10 @@ body {
 /* montserrat-900italic - latin */
 
 @font-face {
-    font-family: 'Montserrat';
+    font-family: 'Tajawal', sans-serif;
     font-style: italic;
     font-weight: 900;
-    src: url("../fonts/montserrat/montserrat-v12-latin-900italic.eot");
+    src: url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
     /* IE9 Compat Modes */
     src: local("Montserrat Black Italic"), local("Montserrat-BlackItalic"), url("../fonts/montserrat/montserrat-v12-latin-900italic.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat-v12-latin-900italic.woff2") format("woff2"), url("../fonts/montserrat/montserrat-v12-latin-900italic.woff") format("woff"), url("../fonts/montserrat/montserrat-v12-latin-900italic.ttf") format("truetype"), url("../fonts/montserrat/montserrat-v12-latin-900italic.svg#Montserrat") format("svg");
     /* Legacy iOS */
@@ -1541,7 +1541,7 @@ body {
 
 .footer-top .footer-top-content .footer-links ul li a {
     display: block;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 15px;
     color: #666;
 }
@@ -1653,7 +1653,7 @@ body {
 .menu ul li a {
     text-transform: uppercase;
     font-size: 15px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: bold;
     padding: 10px 0;
     position: relative;
@@ -1782,7 +1782,7 @@ body {
 }
 
 .header-home4 .header-top .header-top-content .header-top-info ul li .info-item span:nth-child(2) {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 16px;
     font-weight: bold;
 }
@@ -2091,7 +2091,7 @@ body {
 .au-nav-mobile ul li a {
     text-transform: uppercase;
     font-size: 15px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     color: #fff;
     font-size: 16px;
     padding: 14px 30px;
@@ -2297,7 +2297,7 @@ body {
 }
 
 .all-services ul li a {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 14px;
     text-transform: uppercase;
     font-weight: bold;
@@ -2633,7 +2633,7 @@ body {
 }
 
 .error-content .error-content-info .error-desc {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 25px;
     font-style: italic;
     color: #f2f2f2;
@@ -2716,7 +2716,7 @@ body {
 }
 
 .company-skills .company-skills-video .info .video-title {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 18px;
     font-weight: bold;
     color: #ea1f27;
@@ -2779,7 +2779,7 @@ body {
 }
 
 .company-skills .company-skills-content .company-skills-list ul li .title-regular-14 span:nth-child(2) {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
 }
 
 .company-skills .company-skills-content .company-skills-list ul li .progress {
@@ -2868,7 +2868,7 @@ body {
     -webkit-transform: translateY(-50%);
     -o-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
 }
 
 .choose-us-content .choose-us-list .choose-us-list-content ul li:hover .title {
@@ -3046,7 +3046,7 @@ body {
 }
 
 .comming-soon-content #count-down-time .count-down-item span:nth-child(2) {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     text-transform: uppercase;
 }
 
@@ -3162,7 +3162,7 @@ body {
 
 .contact-title h2 {
     font-size: 30px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     position: relative;
@@ -3311,7 +3311,7 @@ body {
 
 .slide-show .slide-content .slide-title {
     text-transform: uppercase;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     padding: 10px 0px;
     font-weight: bold;
 }
@@ -3356,7 +3356,7 @@ body {
     color: #fff;
     opacity: 0;
     font-size: 40px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     z-index: 5;
 }
 
@@ -3536,7 +3536,7 @@ body {
 .testimonials-content .item .info .item-content .name {
     color: #333;
     font-weight: bold;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
 }
 
 .our-team {
@@ -3629,7 +3629,7 @@ body {
 
 .cta .cta-content .cta-info .cta-title {
     font-size: 34px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: bold;
     margin-bottom: 30px;
     color: #fff;
@@ -3723,7 +3723,7 @@ body {
 }
 
 .cta-home2 .cta-title {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 25px;
     text-transform: uppercase;
     font-weight: bold;
@@ -3791,7 +3791,7 @@ body {
 
 .home2-testimonials-content .item .info .item-content .name {
     color: #fff;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -3845,7 +3845,7 @@ body {
     color: #fff;
     opacity: 0;
     font-size: 40px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     z-index: 5;
 }
 
@@ -4003,7 +4003,7 @@ body {
 }
 
 .home3-slide-show .slide-content .slide-title-roboto h3 {
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: bold;
     position: relative;
     z-index: 100;
@@ -4246,7 +4246,7 @@ body {
 
 .home3-testimonials-content .slider-info .item .info .item-content .name {
     color: #fff;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -4406,7 +4406,7 @@ body {
 
 .cta-home5 .cta-content {
     font-size: 35px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: bold;
     width: 40%;
     text-align: center;
@@ -4660,7 +4660,7 @@ body {
 
 .home6-slide-show .slide-content .slide-title {
     font-size: 45px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -5295,7 +5295,7 @@ body {
 
 .shop-content .item .info .price span {
     font-size: 20px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: bold;
     color: #333;
 }
@@ -5715,7 +5715,7 @@ body {
     text-transform: uppercase;
     color: #fff;
     padding: 12px 36px;
-    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
     font-size: 18px;
     font-weight: 600;
     background: #ea1f27;
