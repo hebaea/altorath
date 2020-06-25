@@ -1582,8 +1582,10 @@ body {
 }
 
 .footer-bottom {
-    background: #333;
-    color: #999;
+    /* background: #333; */
+    /* color: #999; */
+    background-color: white;
+    color: #333;
     padding: 15px 0px;
 }
 
